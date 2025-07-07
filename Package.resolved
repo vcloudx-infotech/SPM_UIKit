@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "enablexwebrtc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EnableX/EnablexWebRTC.git",
+      "state" : {
+        "revision" : "cf2162e19bcfb1dc0719ae356e35c339fcccb5ac",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "spm_test",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vcloudx-infotech/SPM_Test.git",
+      "state" : {
+        "revision" : "1248b53ce0976f68b1b233505944702842651bd7",
+        "version" : "1.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
